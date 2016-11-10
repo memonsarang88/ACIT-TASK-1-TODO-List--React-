@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.ReactToDoApp
+{
+  border: 3px solid #fff;
+}
+.ReactToDoApp .AddToDo
+{
+  padding: 2%;
+  text-align: center;
+}
+.TaskListDiv
+{
+  width: 100%;
+    margin: 0 auto;
+}
+.taskInput
+{
+  width:65%;
+  height:25px;
+  font-size:12pt;
+}
+.GeneralAdd
+{
+  padding:0.5% 2%;
+  margin-left:2%;
+  background:#22aaff;
+  border:3px solid #ffffff;
+}
+.GeneralAdd:hover
+{
+  background:#fff;
+}
+.GeneralAdd:active
+{
+  background:#22aaff;
+}
+
+.Header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

@@ -1,0 +1,15 @@
+.TaskList
+{
+  list-style: none;
+  margin: 1% 10%;
+  width: 65%;
+}
+.TaskList li
+{
+  border: 3px solid #222;
+  margin: 5% 2%;
+  padding: 2%;
+  background-color: #eeeeee;
+  border-radius: 3px;
+  text-align: center;
+}
